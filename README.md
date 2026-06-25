@@ -3,6 +3,11 @@
 ## Project Overview
 In this project, I worked on the **Olist Brazilian E-Commerce dataset** using **SQL, Excel, and Power BI** to understand how the business was performing across revenue, order trends, delivery timelines, product categories, and customer locations.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+
 The main objective was to turn raw e-commerce data into a simple business dashboard that answers practical questions such as:
 - How much revenue did the business generate?
 - How did order volume change over time?
